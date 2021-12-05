@@ -1,0 +1,8 @@
+{
+  "name": "UsState",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "4b5c57de"
+}
