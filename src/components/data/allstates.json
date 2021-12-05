@@ -1,0 +1,362 @@
+[
+    {
+        "id": "AL",
+        "name": "Alabama",
+        "val": "01",
+        "color": "#ddd"
+    },
+    {
+        "id": "AK",
+        "name": "Alaska",
+        "val": "02",
+        "color": "#ddd"
+    },
+    {
+        "id": "AS",
+        "name": "American Samoa",
+        "val": "60",
+        "color": "#ddd"
+    },
+    {
+        "id": "AZ",
+        "name": "Arizona",
+        "val": "04",
+        "color": "#ddd"
+    },
+    {
+        "id": "AR",
+        "name": "Arkansas",
+        "val": "05",
+        "color": "#ddd"
+    },
+    {
+        "id": "CA",
+        "name": "California",
+        "val": "06",
+        "color": "#ddd"
+    },
+    {
+        "id": "CO",
+        "name": "Colorado",
+        "val": "08",
+        "color": "#ddd"
+    },
+    {
+        "id": "CT",
+        "name": "Connecticut",
+        "val": "09",
+        "color": "#ddd"
+    },
+    {
+        "id": "DE",
+        "name": "Delaware",
+        "val": "10",
+        "color": "#ddd"
+    },
+    {
+        "id": "DC",
+        "name": "District Of Columbia",
+        "val": "11",
+        "color": "#ddd"
+    },
+    {
+        "id": "FL",
+        "name": "Florida",
+        "val": "12",
+        "color": "#ddd"
+    },
+    {
+        "id": "FM",
+        "name": "Federated States Of Micronesia",
+        "val": "64",
+        "color": "#ddd"
+    },
+    {
+        "id": "GA",
+        "name": "Georgia",
+        "val": "13",
+        "color": "#ddd"
+    },
+    {
+        "id": "GU",
+        "name": "Guam",
+        "val": "66",
+        "color": "#ddd"
+    },
+    {
+        "id": "HI",
+        "name": "Hawaii",
+        "val": "15",
+        "color": "#ddd"
+    },
+    {
+        "id": "ID",
+        "name": "Idaho",
+        "val": "16",
+        "color": "#ddd"
+    },
+    {
+        "id": "IL",
+        "name": "Illinois",
+        "val": "17",
+        "color": "#ddd"
+    },
+    {
+        "id": "IN",
+        "name": "Indiana",
+        "val": "18",
+        "color": "#ddd"
+    },
+    {
+        "id": "IA",
+        "name": "Iowa",
+        "val": "19",
+        "color": "#ddd"
+    },
+    {
+        "id": "KS",
+        "name": "Kansas",
+        "val": "20",
+        "color": "#ddd"
+    },
+    {
+        "id": "KY",
+        "name": "Kentucky",
+        "val": "21",
+        "color": "#ddd"
+    },
+    {
+        "id": "LA",
+        "name": "Louisiana",
+        "val": "22",
+        "color": "#ddd"
+    },
+    {
+        "id": "ME",
+        "name": "Maine",
+        "val": "23",
+        "color": "#ddd"
+    },
+    {
+        "id": "MH",
+        "name": "Marshall Islands",
+        "val": "68",
+        "color": "#ddd"
+    },
+    {
+        "id": "MD",
+        "name": "Maryland",
+        "val": "24",
+        "color": "#ddd"
+    },
+    {
+        "id": "MA",
+        "name": "Massachusetts",
+        "val": "25",
+        "color": "#ddd"
+    },
+    {
+        "id": "MI",
+        "name": "Michigan",
+        "val": "26",
+        "color": "#ddd"
+    },
+    {
+        "id": "MN",
+        "name": "Minnesota",
+        "val": "27",
+        "color": "#ddd"
+    },
+    {
+        "id": "MS",
+        "name": "Mississippi",
+        "val": "28",
+        "color": "#ddd"
+    },
+    {
+        "id": "MO",
+        "name": "Missouri",
+        "val": "29",
+        "color": "#ddd"
+    },
+    {
+        "id": "MT",
+        "name": "Montana",
+        "val": "30",
+        "color": "#ddd"
+    },
+    {
+        "id": "NE",
+        "name": "Nebraska",
+        "val": "31",
+        "color": "#ddd"
+    },
+    {
+        "id": "NV",
+        "name": "Nevada",
+        "val": "32",
+        "color": "#ddd"
+    },
+    {
+        "id": "NH",
+        "name": "New Hampshire",
+        "val": "33",
+        "color": "#ddd"
+    },
+    {
+        "id": "NJ",
+        "name": "New Jersey",
+        "val": "34",
+        "color": "#ddd"
+    },
+    {
+        "id": "NM",
+        "name": "New Mexico",
+        "val": "35",
+        "color": "#ddd"
+    },
+    {
+        "id": "NY",
+        "name": "New York",
+        "val": "36",
+        "color": "#ddd"
+    },
+    {
+        "id": "NC",
+        "name": "North Carolina",
+        "val": "37",
+        "color": "#ddd"
+    },
+    {
+        "id": "ND",
+        "name": "North Dakota",
+        "val": "38",
+        "color": "#ddd"
+    },
+    {
+        "id": "MP",
+        "name": "Northern Mariana Islands",
+        "val": "69",
+        "color": "#ddd"
+    },
+    {
+        "id": "OH",
+        "name": "Ohio",
+        "val": "39",
+        "color": "#ddd"
+    },
+    {
+        "id": "OK",
+        "name": "Oklahoma",
+        "val": "40",
+        "color": "#ddd"
+    },
+    {
+        "id": "OR",
+        "name": "Oregon",
+        "val": "41",
+        "color": "#ddd"
+    },
+    {
+        "id": "PW",
+        "name": "Palau",
+        "val": "70",
+        "color": "#ddd"
+    },
+    {
+        "id": "PA",
+        "name": "Pennsylvania",
+        "val": "42",
+        "color": "#ddd"
+    },
+    {
+        "id": "PR",
+        "name": "Puerto Rico",
+        "val": "72",
+        "color": "#ddd"
+    },
+    {
+        "id": "RI",
+        "name": "Rhode Island",
+        "val": "44",
+        "color": "#ddd"
+    },
+    {
+        "id": "SC",
+        "name": "South Carolina",
+        "val": "45",
+        "color": "#ddd"
+    },
+    {
+        "id": "SD",
+        "name": "South Dakota",
+        "val": "46",
+        "color": "#ddd"
+    },
+    {
+        "id": "TN",
+        "name": "Tennessee",
+        "val": "47",
+        "color": "#ddd"
+    },
+    {
+        "id": "TX",
+        "name": "Texas",
+        "val": "48",
+        "color": "#ddd"
+    },
+    {
+        "id": "UM",
+        "name": "U.S. Minor Outlying Islands",
+        "val": "74",
+        "color": "#ddd"
+    },
+    {
+        "id": "UT",
+        "name": "Utah",
+        "val": "49",
+        "color": "#ddd"
+    },
+    {
+        "id": "VT",
+        "name": "Vermont",
+        "val": "50",
+        "color": "#ddd"
+    },
+    {
+        "id": "VA",
+        "name": "Virginia",
+        "val": "51",
+        "color": "#ddd"
+    },
+    {
+        "id": "VI",
+        "name": "Virgin Islands",
+        "val": "78",
+        "color": "#ddd"
+    },
+    {
+        "id": "WA",
+        "name": "Washington",
+        "val": "53",
+        "color": "#ddd"
+    },
+    {
+        "id": "WV",
+        "name": "West Virginia",
+        "val": "54",
+        "color": "#ddd"
+    },
+    {
+        "id": "WI",
+        "name": "Wisconsin",
+        "val": "55",
+        "color": "#ddd"
+    },
+    {
+        "id": "WY",
+        "name": "Wyoming",
+        "val": "56",
+        "color": "#ddd"
+    }
+]

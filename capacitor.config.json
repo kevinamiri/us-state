@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "FindingCities",
+  "appName": "us-state",
   "webDir": "build",
   "bundledWebRuntime": false
 }
