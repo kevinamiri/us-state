@@ -1,8 +1,8 @@
 {
-  "name": "UsState",
+  "name": "FindingCities",
   "integrations": {
     "capacitor": {}
   },
   "type": "react",
-  "id": "4b5c57de"
+  "id": "bb9bcd7e"
 }
